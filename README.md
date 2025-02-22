@@ -21,10 +21,15 @@ npm -v # Should print "10.9.2".
 2、安装依赖，下载代码
 
 下载脚本
+
 git clone https://github.com/xk320/Unich-Bot.git
+
 cd Unich-Bot
+
 安装软件包
+
 npm  install
 
 3、运行脚本
+
  npm .
